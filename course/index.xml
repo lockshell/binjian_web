@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>重点项目 on 斌见科技</title>
-    <link>binjian.net/course/</link>
+    <link>https://binjian.net/course/</link>
     <description>Recent content in 重点项目 on 斌见科技</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright &amp;copy; 2020 斌见科技</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="binjian.net/course/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://binjian.net/course/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>企业ERP开发</title>
-      <link>binjian.net/course/course-5/</link>
+      <link>https://binjian.net/course/course-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-5/</guid>
+      <guid>https://binjian.net/course/course-5/</guid>
       <description>About 项目 企业ERP开发
 成熟的后台框架，所见即所得。
 快速梳理业务流程，敏捷开发，缩短开发周期。</description>
@@ -25,47 +25,47 @@
     
     <item>
       <title>企业门户开发</title>
-      <link>binjian.net/course/course-4/</link>
+      <link>https://binjian.net/course/course-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-4/</guid>
+      <guid>https://binjian.net/course/course-4/</guid>
       <description>关于项目 企业门户开发</description>
     </item>
     
     <item>
       <title>安卓/iOS App开发</title>
-      <link>binjian.net/course/course-2/</link>
+      <link>https://binjian.net/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-2/</guid>
+      <guid>https://binjian.net/course/course-2/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>技术咨询</title>
-      <link>binjian.net/course/course-6/</link>
+      <link>https://binjian.net/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-6/</guid>
+      <guid>https://binjian.net/course/course-6/</guid>
       <description>About 技术咨询 您是否有一个绝佳的idea，只差一个(or 一批)程序员了？
 Requirements How to Apply Fees and Funding </description>
     </item>
     
     <item>
       <title>新媒体运营系统</title>
-      <link>binjian.net/course/course-1/</link>
+      <link>https://binjian.net/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-1/</guid>
+      <guid>https://binjian.net/course/course-1/</guid>
       <description>About 新媒体运营系统  一键发布内容到全平台 批量管理微信公众号、新媒体  </description>
     </item>
     
     <item>
       <title>电子商城开发</title>
-      <link>binjian.net/course/course-3/</link>
+      <link>https://binjian.net/course/course-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>binjian.net/course/course-3/</guid>
+      <guid>https://binjian.net/course/course-3/</guid>
       <description>About 电子商城开发 快速构建现代化的电商网站。
  支持商品管理。 支持秒杀活动。 支持对接微信支付、支付宝。 支持查询物流信息。  </description>
     </item>
