@@ -185,34 +185,27 @@ Requirements TODO</description>
     </item>
     
     <item>
-      <title>iOS App开发</title>
-      <link>http://examplesite.org/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>http://examplesite.org/course/course-3/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>企业ERP开发</title>
       <link>http://examplesite.org/course/course-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>http://examplesite.org/course/course-5/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About 项目 企业ERP开发
+成熟的后台框架，所见即所得。
+快速梳理业务流程，敏捷开发，缩短开发周期。</description>
     </item>
     
     <item>
-      <title>企业门户网站开发</title>
+      <title>企业门户开发</title>
       <link>http://examplesite.org/course/course-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>http://examplesite.org/course/course-4/</guid>
-      <description>关于项目 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>关于项目 企业门户开发</description>
     </item>
     
     <item>
-      <title>安卓App开发</title>
+      <title>安卓/iOS App开发</title>
       <link>http://examplesite.org/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -221,12 +214,13 @@ Requirements TODO</description>
     </item>
     
     <item>
-      <title>微信公众号开发</title>
-      <link>http://examplesite.org/course/course-1/</link>
+      <title>技术咨询</title>
+      <link>http://examplesite.org/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/course/course-1/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.org/course/course-6/</guid>
+      <description>About 技术咨询 您是否有一个绝佳的idea，只差一个(or 一批)程序员了？
+Requirements How to Apply Fees and Funding </description>
     </item>
     
     <item>
@@ -277,12 +271,22 @@ Requirements Fees and Funding </description>
     </item>
     
     <item>
-      <title>新媒体解决方案</title>
-      <link>http://examplesite.org/course/course-6/</link>
+      <title>新媒体运营系统</title>
+      <link>http://examplesite.org/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/course/course-6/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.org/course/course-1/</guid>
+      <description>About 新媒体运营系统  一键发布内容到全平台 批量管理微信公众号、新媒体  </description>
+    </item>
+    
+    <item>
+      <title>电子商城开发</title>
+      <link>http://examplesite.org/course/course-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://examplesite.org/course/course-3/</guid>
+      <description>About 电子商城开发 快速构建现代化的电商网站。
+ 支持商品管理。 支持秒杀活动。 支持对接微信支付、支付宝。 支持查询物流信息。  </description>
     </item>
     
     <item>

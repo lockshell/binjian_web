@@ -173,11 +173,6 @@
   </url>
   
   <url>
-    <loc>http://examplesite.org/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://examplesite.org/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -218,7 +213,7 @@
   </url>
   
   <url>
-    <loc>http://examplesite.org/course/course-1/</loc>
+    <loc>http://examplesite.org/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -248,7 +243,12 @@
   </url>
   
   <url>
-    <loc>http://examplesite.org/course/course-6/</loc>
+    <loc>http://examplesite.org/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.org/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -314,11 +314,11 @@
   </url>
   
   <url>
-    <loc>http://examplesite.org/contact/</loc>
+    <loc>http://examplesite.org/teacher/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/teacher/</loc>
+    <loc>http://examplesite.org/contact/</loc>
   </url>
   
 </urlset>
