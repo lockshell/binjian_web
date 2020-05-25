@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://binjian.net/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://binjian.net/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
@@ -13,27 +18,7 @@
   </url>
   
   <url>
-    <loc>https://binjian.net/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://binjian.net/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://binjian.net/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://binjian.net/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://binjian.net/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
@@ -255,6 +240,21 @@
   <url>
     <loc>https://binjian.net/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binjian.net/event/event-3/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binjian.net/event/event-4/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binjian.net/event/event-5/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
