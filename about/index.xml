@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我们 on 斌见科技</title>
-    <link>http://examplesite.org/about/</link>
+    <link>binjian.net/about/</link>
     <description>Recent content in 关于我们 on 斌见科技</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright &amp;copy; 2020 斌见科技</copyright>
     
-	<atom:link href="http://examplesite.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="binjian.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

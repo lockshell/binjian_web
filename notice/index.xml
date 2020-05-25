@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>通告 on 斌见科技</title>
-    <link>http://examplesite.org/notice/</link>
+    <link>binjian.net/notice/</link>
     <description>Recent content in 通告 on 斌见科技</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright &amp;copy; 2020 斌见科技</copyright>
     <lastBuildDate>Thu, 06 Feb 2020 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="http://examplesite.org/notice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="binjian.net/notice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>斌见科技与哈尔滨诚信车行签署合作协议</title>
-      <link>http://examplesite.org/notice/notice-1/</link>
+      <link>binjian.net/notice/notice-1/</link>
       <pubDate>Thu, 06 Feb 2020 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-1/</guid>
+      <guid>binjian.net/notice/notice-1/</guid>
       <description>About Notice 斌见科技与诚信车行签署合作协议
 Requirements TODO</description>
     </item>
     
     <item>
       <title>斌见吃上了周黑鸭</title>
-      <link>http://examplesite.org/notice/notice-4/</link>
+      <link>binjian.net/notice/notice-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-4/</guid>
+      <guid>binjian.net/notice/notice-4/</guid>
       <description>About Notice 斌见吃上了周黑鸭</description>
     </item>
     
     <item>
       <title>斌见吃上了海底捞</title>
-      <link>http://examplesite.org/notice/notice-3/</link>
+      <link>binjian.net/notice/notice-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-3/</guid>
+      <guid>binjian.net/notice/notice-3/</guid>
       <description>About Notice 斌见吃上了海底捞
 Requirements TODO</description>
     </item>
     
     <item>
       <title>斌见吃上了热干面</title>
-      <link>http://examplesite.org/notice/notice-5/</link>
+      <link>binjian.net/notice/notice-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-5/</guid>
+      <guid>binjian.net/notice/notice-5/</guid>
       <description>About Notice 斌见科技吃上了热干面</description>
     </item>
     
     <item>
       <title>斌见吃上了锅包肉</title>
-      <link>http://examplesite.org/notice/notice-6/</link>
+      <link>binjian.net/notice/notice-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-6/</guid>
+      <guid>binjian.net/notice/notice-6/</guid>
       <description>About Notice 斌见科技吃上了锅包肉</description>
     </item>
     
     <item>
       <title>斌见科技与弘基恒信签署合作协议</title>
-      <link>http://examplesite.org/notice/notice-2/</link>
+      <link>binjian.net/notice/notice-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/notice/notice-2/</guid>
+      <guid>binjian.net/notice/notice-2/</guid>
       <description>About Notice 斌见科技与大连弘基恒信签署合作协议
 Requirements Fees and Funding </description>
     </item>
