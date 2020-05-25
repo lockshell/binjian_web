@@ -5,8 +5,8 @@
     <link>http://examplesite.org/</link>
     <description>Recent content on 斌见科技</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 BINJIAN</copyright>
+    <language>zh-CN</language>
+    <copyright>Copyright &amp;copy; 2020 斌见科技</copyright>
     <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="http://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
@@ -67,21 +67,13 @@
     </item>
     
     <item>
-      <title>Algorithm</title>
-      <link>http://examplesite.org/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>斌见科技与哈尔滨诚信车行签署合作协议</title>
+      <link>http://examplesite.org/notice/notice-1/</link>
+      <pubDate>Thu, 06 Feb 2020 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/course/course-5/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>http://examplesite.org/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>http://examplesite.org/course/course-3/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>http://examplesite.org/notice/notice-1/</guid>
+      <description>About Notice 斌见科技与诚信车行签署合作协议
+Requirements TODO</description>
     </item>
     
     <item>
@@ -193,16 +185,34 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>http://examplesite.org/course/course-4/</link>
+      <title>iOS App开发</title>
+      <link>http://examplesite.org/course/course-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>http://examplesite.org/course/course-4/</guid>
+      <guid>http://examplesite.org/course/course-3/</guid>
       <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Mathematics</title>
+      <title>企业ERP开发</title>
+      <link>http://examplesite.org/course/course-5/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://examplesite.org/course/course-5/</guid>
+      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>企业门户网站开发</title>
+      <link>http://examplesite.org/course/course-4/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://examplesite.org/course/course-4/</guid>
+      <description>关于项目 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>安卓App开发</title>
       <link>http://examplesite.org/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -211,7 +221,7 @@
     </item>
     
     <item>
-      <title>Photography</title>
+      <title>微信公众号开发</title>
       <link>http://examplesite.org/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -220,61 +230,54 @@
     </item>
     
     <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://examplesite.org/notice/notice-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>http://examplesite.org/notice/notice-1/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://examplesite.org/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>http://examplesite.org/notice/notice-2/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>http://examplesite.org/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>http://examplesite.org/notice/notice-3/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
+      <title>斌见吃上了周黑鸭</title>
       <link>http://examplesite.org/notice/notice-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>http://examplesite.org/notice/notice-4/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About Notice 斌见吃上了周黑鸭</description>
     </item>
     
     <item>
-      <title>Teaching Materials and Testing Methods</title>
+      <title>斌见吃上了海底捞</title>
+      <link>http://examplesite.org/notice/notice-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://examplesite.org/notice/notice-3/</guid>
+      <description>About Notice 斌见吃上了海底捞
+Requirements TODO</description>
+    </item>
+    
+    <item>
+      <title>斌见吃上了热干面</title>
       <link>http://examplesite.org/notice/notice-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>http://examplesite.org/notice/notice-5/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About Notice 斌见科技吃上了热干面</description>
     </item>
     
     <item>
-      <title>Teaching Materials and Testing Methods</title>
+      <title>斌见吃上了锅包肉</title>
       <link>http://examplesite.org/notice/notice-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>http://examplesite.org/notice/notice-6/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About Notice 斌见科技吃上了锅包肉</description>
     </item>
     
     <item>
-      <title>Vlogging</title>
+      <title>斌见科技与弘基恒信签署合作协议</title>
+      <link>http://examplesite.org/notice/notice-2/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://examplesite.org/notice/notice-2/</guid>
+      <description>About Notice 斌见科技与大连弘基恒信签署合作协议
+Requirements Fees and Funding </description>
+    </item>
+    
+    <item>
+      <title>新媒体解决方案</title>
       <link>http://examplesite.org/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
